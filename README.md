@@ -1,5 +1,7 @@
 # Robot Framework in Docker, with Firefox and Chrome
 
+This is junk
+
 ## What is it?
 
 This project consists of a Docker image containing a Robot Framework installation.
