@@ -1,4 +1,5 @@
 #!/bin/bash
+# This is junk
 time docker run \
             --rm \
             -e ROBOT_THREADS=4 \
@@ -7,3 +8,4 @@ time docker run \
             -v ${PWD}/reports:/opt/robotframework/reports \
             -v ${PWD}/test:/opt/robotframework/tests \
             kon/test
+
